@@ -2,7 +2,7 @@
 
 ## Paper Information
 * **Title**: TaLK: Text-attributed Graph Dataset Distillation via Coupling Language Model with Graph-Aware Kernel
-* **Description**: Official implementation of the dataset distillation algorithm for text-attributed graphs (TAGs) using integrated Language Model (LM) and Graph Neural Network (GNN) learning.
+* **Description**: Official implementation of the dataset distillation algorithm for text-attributed graphs (TAGs) with LM-GNN integrated learning.
 
 ---
 
